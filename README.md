@@ -1,7 +1,7 @@
 # 👾 xxwfufu - Multi Tools & Cyber Wizard
 
 <p align="center">
-  <img src="[https://cdn.discordapp.com/attachments/1225953493769126019/1293010003745312768/bounce.gif?ex=688a12a7&is=6888c127&hm=a171c3aa319969fbd12ffacf853c54cdbeb2a4d120227886a2379c6143a257b0&](https://tenor.com/view/cat-chat-cat-fall-hello-chat-cat-gif-24961178)" alt="Custom Bounce GIF" width="250" />
+  <img src="https://media.tenor.com/v2M7MfrZ3P4AAAAC/honest.gif" alt="Cyber GIF" width="320" />
 </p>
 
 ---
@@ -45,9 +45,3 @@ Pour partager, apprendre, et collaborer sur la cybersécurité et le partage de 
 
 > "La maîtrise de la technique est un art, pas une question de mots."  
 > – xxwfufu
-
----
-
-<p align="center">
-  <img src="https://tenor.com/view/honest-gif-27574448" alt="Matrix hacker vibe" width="300" />
-</p>
