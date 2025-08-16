@@ -1,4 +1,4 @@
-![banner]([https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://y.yarn.co/f805b98b-0bcb-49f1-a14e-f4e90c80df6b_text.gif))
+![banner](https://y.yarn.co/f805b98b-0bcb-49f1-a14e-f4e90c80df6b_text.gif)
 
 # Welcome, Operator. 🖤
 
